@@ -1,4 +1,4 @@
-# json-rpc
+# json-rpc (should be rewritten for polymer 1.0 API)
 
 An element providing a JSON-RPC client, wrapped around a `iron-ajax`.
 
